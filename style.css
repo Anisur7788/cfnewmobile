@@ -147,21 +147,50 @@ border-radius: 10px;
   display: flex;
 }
 .scarce{
-margin-top: 20px;
+margin-top: 17px;
  width: 40px;
  height: 40px;
   clip-path: circle();
+  border: 2px solid black;
+  border-radius: 100px;
   
 }
 .sdrt {
+  margin-top: 35px;
   padding-bottom: 15px;
   background-color: #FE6803;
   display: flex;
-  border: 2px solid white;
   border-radius: 30px;
+}
+
+.item > div {  border-radius: 9px;
+  border: 2px solid white; 
+  width: 200px;
+  margin-top: 18px;
+  margin-right: 1px;
+  margin-left: 15px;
+  background-color: aliceblue;
+  box-shadow: rgba(11, 11, 203, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;;
+}
+.item{
+  align-items: center;
+  margin-left: 50px;
+  padding-left: 60px;
+  margin-top: 30px;
+}
+.img6{
+  border-radius: 10px;
 }
 .burgerbody {
   display: flex;
+}
+.suggest {
+  font-size: 20px;
+  padding-left: 40px;
+  margin-left: 20px;
+  color: #FE6803;
+ font-weight: bold;
+  
 }
 
 
