@@ -18,12 +18,12 @@
 
   }
   body{
-    border: 2px solid white;
+    
     max-width: 480px;
   }
  
   .cfblk {
-    margin-left: 30px;
+   
     height: 80px;
     width: 190px;
   }
@@ -127,17 +127,38 @@
   margin-top: 20px;
 }
 .anis2{
+  margin-left: 50px;
 margin-top: 20px;
 text-align: center;
 padding: 10px;
-margin-left: 480px;
-margin-right: 480px ;
+padding-right: 100px;
 border-radius: 10px;
 }
 
 
-.vivo {
+.bt4 { padding-right: 150px;
+  margin-left: 50px;
+  border-radius:10px ;
   
+}
+.linkop4{
+  text-align: center;
+ 
+  display: flex;
+}
+.scarce{
+margin-top: 20px;
+ width: 40px;
+ height: 40px;
+  clip-path: circle();
+  
+}
+.sdrt {
+  padding-bottom: 15px;
+  background-color: #FE6803;
+  display: flex;
+  border: 2px solid white;
+  border-radius: 30px;
 }
 .burgerbody {
   display: flex;
