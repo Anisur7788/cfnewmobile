@@ -196,9 +196,9 @@ margin-top: 17px;
 
 }
 .item{
-  display: flex;
- align-items: center;
- flex-direction: column;
+ display: grid;
+ grid-template-columns: auto auto;
+ margin-left: 9px;
   
 }
 .paddings {
