@@ -152,7 +152,7 @@
   border-radius: 8px 0px 0px 8px;
   background-color: #F4F6F8;
   height: 38px;
-  width: 300px;
+  width: 240px;
   border: 2px solid rgb(255, 255, 255);
   font-size: 15px;
   padding-left: 10px;
@@ -183,7 +183,7 @@
     align-items: center;
     margin-top: 30px;
     margin-left: 50px;
-    margin-right: 48px;
+    margin-right: 110px;
     border-radius: 9px;
     border: 2px solid rgb(203, 199, 199);
     background-color: rgb(174, 173, 173);
