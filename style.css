@@ -1,5 +1,5 @@
 
- * body::after  { 
+ * body::after  {
     content: "";
     top: 0;
     left: 0;
@@ -179,7 +179,7 @@
   border-radius: 100px;
   
 }
-.sdrt {
+/* .sdrt {
     align-items: center;
     margin-top: 30px;
     margin-left: 50px;
@@ -187,7 +187,7 @@
     border-radius: 9px;
     border: 2px solid rgb(203, 199, 199);
     background-color: rgb(174, 173, 173);
-}
+} */
 
 
 .item > div{border: 2px solid white;
