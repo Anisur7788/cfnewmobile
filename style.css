@@ -188,7 +188,10 @@
     border: 2px solid rgb(203, 199, 199);
     background-color: rgb(174, 173, 173);
 } */
-
+.sdrt {
+  margin-top: 30px;
+  margin-left: 15%;
+}
 
 .item > div{border: 2px solid white;
   width:200px ;
